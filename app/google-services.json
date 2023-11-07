@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307954415337",
+    "project_id": "samplefirebaseremoteconfigapp",
+    "storage_bucket": "samplefirebaseremoteconfigapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307954415337:android:13d1f2c6b8139cea4ee278",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconfigurationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmqPfw5BZhINOiu5PQv2dFEn-qKaDsCAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

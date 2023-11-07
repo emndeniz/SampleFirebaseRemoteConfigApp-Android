@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>homeSmyleBannerVersion</key>
+    <value>v0</value>
+  </entry>
+  <entry>
+    <key>newFinanceEnabled</key>
+    <value>{   "countries": [     "DE",     "NL"   ] }</value>
+  </entry>
+  <entry>
+    <key>newSearchMaskEnabled</key>
+    <value>false</value>
+  </entry>
+  <entry>
+    <key>homeSmyleEnabled</key>
+    <value />
+  </entry>
+  <entry>
+    <key>leasingEnabled</key>
+    <value>false</value>
+  </entry>
+  <entry>
+    <key>afterLeadVersion</key>
+    <value>v1</value>
+  </entry>
+</defaults>
